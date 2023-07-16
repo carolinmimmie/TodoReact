@@ -1,0 +1,15 @@
+.display {
+  background-color: rgb(223, 223, 220);
+  width: 500px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 3rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  padding-bottom: 1.9rem;
+}
+h1 {
+  font-size: 3rem;
+}
